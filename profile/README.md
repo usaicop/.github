@@ -1,3 +1,5 @@
+![US AI Community of Practice: Innovative. Collaborative. Inclusive.](https://github.com/usaicop/.github/blob/main/profile/AI-COP-profile.jpg) 
+
 ## Get Involved
 
 Join us to connect with AI communities, learn together, and make an impact.
