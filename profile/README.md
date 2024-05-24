@@ -4,11 +4,11 @@
 
 Join us to connect with AI communities, learn together, and make an impact.
 
-* [Join a Community of Practice](#)
-* [Contribute to a Working Group](#)
-* [Register for Mailing List Updates](#)
+* [Join the Community of Practice](https://github.com/usaicop/Knowledge-Base)
+* [Contribute to a Working Group](https://github.com/usaicop/Knowledge-Base)
+* [Register for Mailing List Updates](https://coe.gsa.gov/communities/ai.html#join-cop)
 
-Visit [Getting Started with the US AI CoP](#) to learn more!
+Visit [Getting Started with the US AI CoP](https://github.com/usaicop/Knowledge-Base) to learn more!
 
 
 ----
