@@ -8,11 +8,11 @@ Join us to connect with AI communities, learn together, and make an impact.
 * [Contribute to a Working Group](https://github.com/usaicop/Knowledge-Base)
 * [Register for Mailing List Updates](https://coe.gsa.gov/communities/ai.html#join-cop)
 * Lead a practice area:
-  * [Computer Vision](https://github.com/usaicop/Computer-Vision-Practice-Area/discussions)
-  * [Generative AI](https://github.com/usaicop/Generative-AI-Practice-Area/discussions)
-  * [Reinforcement Learning](https://github.com/usaicop/Reinforcement-Learning-Practice-Area/discussions)
-  * [Natural Language Processing](https://github.com/usaicop/Natural-Language-Processing-Practice-Area/discussions)
-  * [AI Security](https://github.com/usaicop/AI-Security-Practice-Area/discussions)
+  * [Computer Vision](https://github.com/usaicop/Computer-Vision-Practice-Area)
+  * [Generative AI](https://github.com/usaicop/Generative-AI-Practice-Area)
+  * [Reinforcement Learning](https://github.com/usaicop/Reinforcement-Learning-Practice-Area)
+  * [Natural Language Processing](https://github.com/usaicop/Natural-Language-Processing-Practice-Area)
+  * [AI Security](https://github.com/usaicop/AI-Security-Practice-Area)
 
 Visit [Getting Started with the US AI CoP](https://github.com/usaicop/Knowledge-Base) to learn more!
 
