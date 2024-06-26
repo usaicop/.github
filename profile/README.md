@@ -11,7 +11,7 @@ Join us to connect with AI communities, learn together, and make an impact.
   * [Computer Vision](https://github.com/usaicop/Computer-Vision-Practice-Area)
   * [Generative AI](https://github.com/usaicop/Generative-AI-Practice-Area)
   * [Reinforcement Learning](https://github.com/usaicop/Reinforcement-Learning-Practice-Area)
-  * [Natural Language Processing](https://github.com/usaicop/Natural-Language-Processing-Practice-Area)
+  * [Natural Language Processing](https://github.com/usaicop/Natural-Language-Processing-Practice-Area) (Requires login)
   * [AI Security](https://github.com/usaicop/AI-Security-Practice-Area)
 
 Visit [Getting Started with the US AI CoP](https://github.com/usaicop/Knowledge-Base) to learn more!
