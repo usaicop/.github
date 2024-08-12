@@ -6,7 +6,7 @@ Join us to connect with AI communities, learn together, and make an impact.
 
 * [Join the Community of Practice](https://github.com/usaicop/Knowledge-Base)
 * [Contribute to a Working Group](https://github.com/usaicop/Knowledge-Base)
-* [Register for Mailing List Updates](https://coe.gsa.gov/communities/ai.html#join-cop)
+* [Register for Mailing List Updates](https://public.govdelivery.com/accounts/USGSATTS/subscriber/new?topic_id=USGSATTS_112)
 * Lead a practice area:
   * [Computer Vision](https://github.com/usaicop/Computer-Vision-Practice-Area)
   * [Generative AI](https://github.com/usaicop/Generative-AI-Practice-Area)
